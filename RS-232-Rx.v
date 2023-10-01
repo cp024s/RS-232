@@ -1,4 +1,4 @@
-module Rx (
+module RS232_Rx (
     reset_neg,
     clock,
     rx_receiver,
