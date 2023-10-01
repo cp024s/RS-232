@@ -25,6 +25,9 @@ If you are new to the world of RS-232 or simply need a refresher, the [Getting S
 
 ## References
 - [Fundamentals of RS-232 Serial Communications](https://www.analog.com/en/technical-articles/fundamentals-of-rs232-serial-communications.html) - Analog Electronics
+- [RS232 Protocol – Basics](https://www.electronicshub.org/rs232-protocol-basics/) - Electronics Hub
+- [RS232: Basics, implementation and specification](https://www.engineersgarage.com/rs232-basics-implementation-specification/) - Engineers Garage
+- [RS232C for Data Transfer](https://www.geeksforgeeks.org/rs232c-for-data-transfer/) - Geeks for Geeks
 
 ## Contributing
 
