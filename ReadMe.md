@@ -21,6 +21,7 @@ If you are new to the world of RS-232 or simply need a refresher, the [Getting S
 - [RS-232 Pinout Diagram](documentation/rs232_pinout.pdf): A comprehensive visual reference for RS-232 connector pin assignments.
 - [RS-232 Data Framing](documentation/rs232_data_framing.md): Detailed insights into how data is framed and transmitted in RS-232 communication.
 - [Flow Control in RS-232](documentation/rs232_flow_control.md): An in-depth explanation of the various flow control methods employed in RS-232 communication.
+- [Fundamentals of RS-232 Serial Communications](https://www.analog.com/en/technical-articles/fundamentals-of-rs232-serial-communications.html) - Analog Electronics
 
 ## Contributing
 
